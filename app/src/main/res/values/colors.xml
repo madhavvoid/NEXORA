@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- NEXORA brand colors -->
+    <color name="nexora_navy">#0B1730</color>
+    <color name="nexora_navy_light">#142748</color>
+    <color name="nexora_blue">#2563EB</color>
+    <color name="nexora_blue_dark">#1D4ED8</color>
+
+    <!-- Text colors -->
+    <color name="nexora_text_primary">#172033</color>
+    <color name="nexora_text_secondary">#687386</color>
+
+    <!-- Backgrounds and borders -->
+    <color name="nexora_background">#F5F7FB</color>
+    <color name="nexora_surface">#FFFFFF</color>
+    <color name="nexora_border">#D6DCE7</color>
+</resources>
