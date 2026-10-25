@@ -25,20 +25,12 @@
 
             <ImageView
                 android:id="@+id/ivLoginLogo"
-                android:layout_width="68dp"
-                android:layout_height="68dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
                 android:contentDescription="NEXORA Logo"
-                android:src="@drawable/ic_nexora" />
+                android:src="@drawable/nexora_logo"
+                android:scaleType="fitCenter" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="12dp"
-                android:text="NEXORA"
-                android:textColor="#FFFFFF"
-                android:textSize="28sp"
-                android:textStyle="bold"
-                android:letterSpacing="0.08" />
 
             <TextView
                 android:layout_width="wrap_content"
